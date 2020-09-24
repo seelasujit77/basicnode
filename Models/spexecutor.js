@@ -1,5 +1,5 @@
 
-var poolConstructor = require('./../models');
+var poolConstructor = require('./../Models');
 var pool = poolConstructor.getPool();
 //const {logWriter} = require ('../lib/helpers');
 module.exports = {
